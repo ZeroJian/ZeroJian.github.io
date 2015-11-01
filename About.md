@@ -10,11 +10,11 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-我是陈素封。
+我是张健。
 
-每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
+我现在正在学习IOS开发,我希望我能做出一款自己满意的APP
 
-现在研习 **认知写作学** 。
+现在研习 **博客写作** 。
 
 ###坚信
 
@@ -28,29 +28,18 @@ header-img: "img/plane.jpg"
 ###关注：
 
 
-- 元认知
-- 写作
-- Python
-- 阳志平
-- 大妈
+- Swift
+- 科技
+- 虚拟现实技术
+- 宇宙
+- IOS OSX
 
-###代表作：
-
-- 《24款最值得推荐的中文字体》
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
-
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
 
 ###联系
 
-- 博客：www.cnfeat.com
+- 博客：www.zerojian.com
 
-- 微博@CnFeat
-
-- 知乎@陈素封
-
-- 知乎专栏：http://zhuanlan.zhihu.com/cnfeat
+- 微博@爱看云
 
 
 
