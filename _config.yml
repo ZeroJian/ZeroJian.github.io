@@ -1,10 +1,10 @@
 # Site settings
 title: 爱看云的大小孩
-header-img: "img/facebook.jpg"
+header-img: "img/mountain.jpg"
 tagline: "cn"  
-description: "爱看云"  
+description: "当你抬头看天上的云,一切都变的美好起来"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://zerojian"  
 
 # About/contact
 owner: 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+#douban_username:  
+twitter_username: ZeroJian1
+github_username: ZeroJian
+#facebook_username: 
+weibo_username: zerojian 
+#zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "ZeroJian"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/birds.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
