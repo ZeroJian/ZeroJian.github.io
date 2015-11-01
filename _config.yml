@@ -1,10 +1,10 @@
 # Site settings
 title: 爱看云的大小孩
-header-img: "img/facebook.jpg"
+header-img: "img/birds.jpg"
 tagline: "cn"  
 description: "爱看云"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://zerojian"  
 
 # About/contact
 owner: 
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "ZeroJian"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/birds.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
