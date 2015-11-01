@@ -1,1 +1,64 @@
-baseurl:/ ZeroJian.github.io
+# Site settings
+title: 爱看云的大小孩
+header-img: "img/facebook.jpg"
+tagline: "cn"  
+description: "爱看云"  
+baseurl: ""
+url: "http://cnfeat"  
+
+# About/contact
+owner: 
+  name: " ZeroJian"
+  email: zj17223412@gmail.com
+  bio: "学习点滴的记录"
+
+# Data
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: img/favicon.png
+
+douban_username:  cnfeat
+twitter_username: feat
+github_username: cnfeat
+facebook_username: 
+weibo_username: cnfeat 
+zhihu_username: feat
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+relative_permalinks: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/WuHan
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "ZeroJian"
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : ZeroJian
+  disqus :
+      short_name : ZeroJian
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: 
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
