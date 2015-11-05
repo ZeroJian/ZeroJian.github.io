@@ -1,6 +1,6 @@
 # Site settings
 title: 爱看云
-header-img: "img/mountain.jpg"
+header-img: "img/siri.png"
 tagline: "cn"  
 description: "当你抬头看天上的云,一切都变的美好起来"  
 baseurl: ""
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "ZeroJian"
-      header-img: "img/seagulls.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/planes-three.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
