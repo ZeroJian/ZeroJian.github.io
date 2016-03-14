@@ -6,5 +6,5 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img/ThereLogo="center"></p>
+    <p>![ThereLogo](img/ThereLogo.png)]</p>
 </center>
