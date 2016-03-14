@@ -12,9 +12,9 @@ header-img: "img/plane.jpg"
 
 我是张健。
 
-我现在正在学习IOS开发,我希望我能做出一款自己满意的APP
+我现在正在独立开发 iOS 项目,我希望我能做出一款大家喜欢的APP
 
-现在研习 **博客写作** 。
+现在研习 ** swift ** 。
 
 ###坚信
 
@@ -32,7 +32,7 @@ header-img: "img/plane.jpg"
 - 科技
 - 虚拟现实技术
 - 宇宙
-- IOS OSX
+- iOS OS X
 
 
 ###联系
@@ -40,6 +40,9 @@ header-img: "img/plane.jpg"
 - 博客：www.zerojian.com
 
 - 微博@爱看云
+
+- email: zj17223412@outlook.com
+
 
 
 
