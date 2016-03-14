@@ -6,5 +6,7 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p>![ThereLogo](img/ThereLogo.png)]</p>
+    <p><img src="https://github.com/ZeroJian/ZeroJian.github.io/blob/master/img/ThereLogo.png?raw=true" align="center"></p>
 </center>
+
+![image1](https://github.com/ZeroJian/ZeroJian.github.io/blob/master/img/ThereScreen1.png?raw=true)
