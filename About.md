@@ -10,9 +10,9 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-我是张健。
+我是 ZeroJain。
 
-我现在正在独立开发 iOS 项目,我希望我能做出一款大家喜欢的APP
+我现在是一个 iOS 开发者,我希望我能做出大家喜欢的APP
 
 现在研习 ** swift ** 。
 
