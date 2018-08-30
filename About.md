@@ -37,7 +37,7 @@ header-img: "img/plane.jpg"
 
 ###联系
 
-- 博客：www.zerojian.com
+- 博客：http://zerojian.github.io
 
 - 微博@爱看云
 
