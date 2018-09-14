@@ -10,9 +10,9 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-我是 ZeroJian。
+我是 ZeroJain。
 
-目前是一个 iOS 开发者,我希望我能做出大家喜欢的APP
+我现在是一个 iOS 开发者,我希望我能做出大家喜欢的APP
 
 现在研习 ** swift ** 。
 
@@ -37,7 +37,7 @@ header-img: "img/plane.jpg"
 
 ###联系
 
-- 博客：www.zerojian.com
+- 博客：http://zerojian.github.io
 
 - 微博@爱看云
 
