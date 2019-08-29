@@ -15,8 +15,6 @@ header-img: "img/siri.jpg"
     <p><img src="https://github.com/ZeroJian/ZeroJian.github.io/blob/master/img/vtape_review.png?raw=true" align="center"></p>
 </center>
 
-
-
 # VTAPE
 
 - Video playback application
