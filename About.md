@@ -32,6 +32,7 @@ header-img: "img/plane.jpg"
 - 虚拟现实技术
 - 宇宙
 - iOS OS X
+- Flutter
 
 
 ###联系
