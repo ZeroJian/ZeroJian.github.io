@@ -17,15 +17,14 @@ header-img: "img/siri.jpg"
 
 # VTAPE
 
-- Video playback application
+- Network video on demand application
 - Written using the flutter framework
-- Has open source [GitHub](https://github.com/ZeroJian/VTAPE)
+- Is open source [GitHub](https://github.com/ZeroJian/VTAPE)
 
 
 <center>
     <p><img src="https://github.com/ZeroJian/ZeroJian.github.io/blob/master/img/ThereLogo.png?raw=true" align="center"></p>
 </center>
-
 
 ![image1](https://github.com/ZeroJian/ZeroJian.github.io/blob/master/img/ThereScreen.png?raw=true)
 
@@ -58,4 +57,4 @@ At a time like this
 
 - The app simple local reminded umbrella features
 - 7-day local notifications
-- Has open source [GitHub](https://github.com/ZeroJian/UmbrellaWeather)
+- Open source [GitHub](https://github.com/ZeroJian/UmbrellaWeather)
